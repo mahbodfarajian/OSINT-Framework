@@ -1,0 +1,14 @@
+# Process-name watchlist (one per line, case-insensitive, '#' = comment)
+nc
+ncat
+netcat
+socat
+xmrig
+minerd
+kdevtmpfsi
+kinsing
+mimikatz
+lazagne
+chisel
+ligolo
+cryptominer

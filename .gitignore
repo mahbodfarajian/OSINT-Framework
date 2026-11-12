@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+config/settings.json
+logs/*.log
+logs/*.json
+data/stats.json
+data/cases/
+data/baseline.json
+*.zip
+.DS_Store

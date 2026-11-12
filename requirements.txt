@@ -1,0 +1,8 @@
+customtkinter>=5.2.2
+psutil>=5.9
+scapy>=2.5
+requests>=2.31
+exifread>=3.0
+python-magic>=0.4.27
+dnspython>=2.4
+phonenumbers>=8.13
